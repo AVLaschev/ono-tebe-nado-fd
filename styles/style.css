@@ -1,7 +1,6 @@
 .header {
     display: grid;
-    grid-template-columns: 1fr
-        min-content 1fr; 
+    grid-template-columns: 1fr min-content 1fr; 
     align-items: center;
     padding: 90px 50px;
     column-gap: 37px;
